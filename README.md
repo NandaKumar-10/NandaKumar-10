@@ -1,6 +1,6 @@
 # Hi, I'm Nanda Kumar 👋
 
-Final year CS student based in Chennai, India. I enjoy building projects that solve real problems — from web apps to AI-powered games.
+Final year CSE student at SSN College Of Engineering, Chennai. I enjoy building projects that solve real problems — from web apps to AI-powered games.
 
 ---
 
@@ -33,18 +33,9 @@ Final year CS student based in Chennai, India. I enjoy building projects that so
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandaKumar-10&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaKumar-10&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📫 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-NandaKumar--10-181717?style=flat&logo=github)](https://github.com/NandaKumar-10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/nanda-kumar-b-8a80332a0/)
 
 > *"Code is like humor. When you have to explain it, it's bad." – Cory House*

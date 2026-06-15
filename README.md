@@ -20,19 +20,6 @@ Final year CSE student at SSN College Of Engineering, Chennai. I enjoy building 
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [IPL Scheduling](https://github.com/NandaKumar-10/IPL_Scheduling) | Cricket match scheduling system | C |
-| [Vehicle Parking App](https://github.com/NandaKumar-10/Vehicle_Parking_App) | Smart parking management app | HTML |
-| [Expedition Unknown](https://github.com/NandaKumar-10/Expedition_Unknown) | Exploration-themed web project | HTML |
-| [Tsuro AI Game](https://github.com/NandaKumar-10/Tsuro-AI-Game) | AI-powered board game implementation | Python |
-| [Placement Portal](https://github.com/NandaKumar-10/Placement-Portal-Application) | College placement management portal | Vue.js |
-| [Machine Learning](https://github.com/NandaKumar-10/Machine-Learning) | ML experiments and notebooks | Jupyter / Python |
-
----
-
 ## 📫 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-NandaKumar--10-181717?style=flat&logo=github)](https://github.com/NandaKumar-10)
